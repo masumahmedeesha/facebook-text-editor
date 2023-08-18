@@ -20,7 +20,16 @@
       }
     ],
     "paths": {
-      "@/*": ["./*"]
+      "@/*": ["./*"],
+      "shared/canUseDOM": ["/src/shared/canUseDOM.ts"],
+      "shared/caretFromPoint": ["/src/shared/caretFromPoint.ts"],
+      "shared/simpleDiffWithCursor": [
+        "/src/shared/simpleDiffWithCursor.ts"
+      ],
+      "shared/invariant": ["/src/shared//invariant.ts"],
+      "shared/warnOnlyOnce": ["/src/shared//warnOnlyOnce.ts"],
+      "shared/environment": ["/src/shared//environment.ts"],
+      "shared/useLayoutEffect": ["/src/shared//useLayoutEffect.ts"]
     }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
