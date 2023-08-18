@@ -1,0 +1,1 @@
+export const DefaultImage = "https://hyman-fashion.nyc3.cdn.digitaloceanspaces.com/default/default.png"

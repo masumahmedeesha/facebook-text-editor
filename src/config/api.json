@@ -1,0 +1,89 @@
+{
+    "editor": {
+        "uploadFileURL": "ckeditor-file"
+    },
+    "auth": {
+        "adminLoginURL": "auth/admin/login",
+        "changePassword": "auth/change-password",
+        "validateTokenURL": "auth/validate-token"
+    },
+    "testimonials": "testimonials",
+    "user": {
+        "regUserURL": "users",
+        "singleUserDetails": "users/",
+        "adminUserList": "users?userType=admin"
+    },
+    "contact": {
+        "contactContent": "contact"
+    },
+    "career": {
+        "list": "career",
+        "careerApplicantURL": "career-applicant"
+    },
+    "cms": {
+        "home": {
+            "homePageCMS": "home-page-cms",
+            "heroSectionCMS": "home-page-hero-section-cms",
+            "welcomeSectionCMS": "home-page-welcome-section-cms",
+            "serviceSectionCMS": "home-page-service-section-cms",
+            "gallerySectionCMS": "home-page-gallery-section-cms",
+            "instagramSectionCMS": "home-page-instagram-section-cms"
+        },
+        "aboutUs": {
+            "sectionOneCMS": "about-page-section-one-cms",
+            "sectionTwoCMS": "about-page-section-two-cms",
+            "sectionThreeCMS": "about-page-section-three-cms",
+            "sectionFourCMS": "about-page-section-four-cms",
+            "faqSectionCMS": "about-page-faq-section-cms"
+        },
+        "newsletter": {
+            "newsletterBannerCMS": "newsletter-banner-cms"
+        },
+        "contact": {
+            "contactPageCMS": "contact-us-page-cms",
+            "contact": "contact-model/",
+            "newsletter": "newsletter/"
+        },
+        "faq": {
+            "faqQA": "faq",
+            "faqPageCMS": "faq-page-cms"
+        },
+        "headerFooter": {
+            "headerFooterCMS": "header-footer-cms"
+        },
+        "career": {
+            "careerListPageCMS": "career-list-page-cms",
+            "applyCareerModalCMS": "apply-career-modal-cms"
+        },
+        "privacyPolicyPageCMS": "privacy-policy-page-cms",
+        "termsPageCMS": "terms-and-services-page-cms",
+        "ageVrificationMOdal": "age-verification-modal-cms",
+        "strainPageCMS": "strain-page-cms",
+        "projectPageCMS": "project-page-cms",
+        "heroSectionSliderCMS": "home-page-hero-section-cms"
+    },
+    "home": {
+        "heroSectionAPI": "home-page-hero-section/"
+    },
+    "aboutUs": {
+        "aboutUsService": "about-service"
+    },
+    "project": {
+        "projectsAPI": "project",
+        "singleProjectAPI": "project/"
+    },
+    "policies": {
+        "privacyPolicy": "privacy-policy-cms",
+        "termsAndCondition": "terms-and-condition-cms"
+    },
+    "dashBoard": {
+        "dashboardAPI": "site/admin-dashboard"
+    },
+    "location": {
+        "requestURL": "location",
+        "pageCmsURL": "location-cms"
+    },
+    "product": {
+        "list": "product"
+    }
+}
